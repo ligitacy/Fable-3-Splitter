@@ -11,6 +11,7 @@ state("Fable3"){
 	bool isLoading3: 0x167242C, 0x1fc, 0xb44;	//"Fable3.exe"+0167242C, 1FC, B44
 	bool starter: 0x19BE330;
 	int questComplete: 0x19CA154, 0x1c4, 0x4, 0x58, 0x184, 0x24;
+	
 }
 
 
